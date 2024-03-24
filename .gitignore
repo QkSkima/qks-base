@@ -1,0 +1,4 @@
+vendor
+src/Adapter
+.idea
+.phpunit.result.cache
