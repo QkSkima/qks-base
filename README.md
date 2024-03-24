@@ -128,7 +128,7 @@ QkSkima is Open Source and licensed under the MIT license: https://opensource.or
 
 ## Support
 
-You can file bug reports here: 
+You can file bug reports here: https://github.com/QkSkima/qks-base/issues
 
 ## Copyright
 
