@@ -1,4 +1,19 @@
 {
+  "name": "qkskima/qkskima-php",
+  "description": "Content structure field assignment tool",
+  "license": "MIT",
+  "keywords": [
+    "Schema",
+    "Content Elements"
+  ],
+  "homepage": "https://www.qkskima.com",
+  "authors": [
+    {
+      "name": "Colin Atkins",
+      "role": "Developer",
+      "homepage": "https://www.qkskima.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "QkSkima\\Base\\": "src/"
